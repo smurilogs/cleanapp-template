@@ -1,1 +1,1 @@
-# cleanpython-template
+# cleanapp-template
